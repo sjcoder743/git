@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+  margin: 2rem;
+  border: 2px solid cornflowerblue;
+}
+
+p{
+  margin: 2rem;
+  background-color: cyan;
+}
